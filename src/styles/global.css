@@ -47,7 +47,7 @@ button, summary, select { cursor: pointer; }
 .menu-button { display: none; border: 0; background: transparent; color: inherit; }
 
 .button { min-height: 50px; display: inline-flex; align-items: center; justify-content: space-between; gap: 28px; padding: 0 22px; background: var(--accent); color: var(--on-accent); border: 1px solid var(--accent); font-weight: 760; font-size: 14px; transition: background .2s, color .2s, transform .2s; }
-.button:hover { background: var(--white); border-color: var(--white); transform: translateY(-2px); }
+.button:hover { background: var(--white); color: var(--ink); border-color: var(--white); transform: translateY(-2px); }
 .button-small { min-height: 42px; padding-inline: 17px; gap: 20px; }
 .text-link { display: inline-flex; gap: 24px; align-items: center; color: var(--white); padding-block: 12px; border-bottom: 1px solid rgba(255,255,255,.4); font-size: 14px; }
 
