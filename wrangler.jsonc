@@ -1,0 +1,4 @@
+{
+  "name": "the-build",
+  "pages_build_output_dir": "./dist"
+}
