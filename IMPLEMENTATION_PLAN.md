@@ -14,7 +14,7 @@ Cel sprintu: kompletna, nowoczesna i responsywna strona demonstracyjna firmy bud
 
 - Tokeny kolorów, typografii, odstępów, szerokości kontenera, obramowań i ruchu.
 - Globalny reset, style tekstu, przycisków, linków i focusu.
-- Wdrożenie chłodnej, technicznej palety z akcentem safety yellow i sprawdzenie kontrastu.
+- Wdrożenie chłodnej, technicznej palety blueprint z kobaltowym akcentem i sprawdzenie kontrastu.
 - Ustawienie umiarkowanej skali nagłówków z H1 ograniczonym do `clamp(2.25rem, 4.2vw, 3.75rem)`.
 
 **Rezultat:** spójny język wizualny gotowy do składania sekcji.

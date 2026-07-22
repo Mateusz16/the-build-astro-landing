@@ -91,8 +91,8 @@ Traktuj te liczby jako element fikcyjnego case study The Build. Używaj ich kons
 
 - Charakter marki: nowoczesny, techniczny, precyzyjny, solidny i wyraźnie budowlany. Ma być czysto i profesjonalnie, bez przytulnej lub lifestyle'owej estetyki.
 - Koncepcja: **clean technical construction** — uporządkowana siatka, wyraźne linie, chłodne powierzchnie, detale przypominające dokumentację techniczną i kontrolowana asymetria.
-- Kolory bazowe: stalowy grafit `#121A20`, chłodna biel `#F5F7F8`, betonowy szary `#DDE3E6` i czysta biel `#FFFFFF`.
-- Akcent: techniczny safety yellow `#E7FF1F`; stosuj go oszczędnie w CTA, etykietach i detalach. Nie używaj kremów, beżów, brązów ani pomarańczu jako dominującej barwy.
+- Kolory bazowe: głęboki granat konstrukcyjny `#0A1B2B`, chłodna stalowa biel `#EEF3F6`, betonowy szary `#D4DDE3` i czysta biel `#FFFFFF`.
+- Akcent: elektryczny kobalt `#3F7CFF`; stosuj go w CTA, etykietach i detalach przypominających blueprint. Nie używaj limonki, kremów, beżów, brązów ani pomarańczu jako dominującej barwy.
 - Typografia: wyrazisty, zwarty grotesk dla nagłówków i neutralny, bardzo czytelny sans-serif dla tekstu; maksymalnie dwie rodziny fontów, najlepiej variable font.
 - Skala tekstu ma być umiarkowana i działać szczególnie dobrze na 13-calowym MacBooku Air. Domyślne limity: H1 `clamp(2.25rem, 4.2vw, 3.75rem)`, H2 `clamp(1.8rem, 3vw, 2.75rem)`, H3 maks. `1.5rem`, tekst główny `1rem–1.125rem`.
 - Przy typowym desktopowym viewportcie 1280 × 800 px cały nagłówek, H1, lead i główne CTA hero powinny być widoczne bez przewijania. Nie stosuj `100vh` dla hero; preferuj zwarty blok o wysokości wynikającej z treści.
@@ -249,14 +249,15 @@ Zadanie jest ukończone, gdy:
 | 2026-07-22 | MVP jest pojedynczym landing page'em | Najlepszy stosunek jakości do czasu w godzinnym sprincie | Podstrony dopiero po akceptacji głównej narracji |
 | 2026-07-22 | Główne CTA to prośba o bezpłatną wycenę | Najbardziej naturalna konwersja dla usług remontowo-budowlanych | CTA powtarza się w hero, headerze i kontakcie |
 | 2026-07-22 | Używamy spójnych, fikcyjnych statystyk i opinii | The Build jest case study i ma wyglądać jak kompletna firma | Przykładowe dane są częścią marki demo, ale nie pochodzą od Complex-Bud |
-| 2026-07-22 | Paleta jest chłodna i techniczna, z akcentem safety yellow | Marka ma kojarzyć się z czystym, współczesnym wykonawstwem, nie z ciepłym lifestyle'em | Bez kremów, beżów i dominującego pomarańczu |
+| 2026-07-22 | Paleta jest chłodna i techniczna, z kobaltowym akcentem blueprint | Marka ma być wyraźnie odrębna od grafitowo-limonkowej identyfikacji Strona2Zero | Granat, stalowa biel i elektryczny kobalt; bez limonki |
+| 2026-07-22 | Finalny projekt działa w Astro bez Reacta i Next.js | Statyczny landing page nie potrzebuje cięższego runtime'u | Mniej JavaScriptu, prostszy kod i zgodność z ofertą Strona2Zero |
 | 2026-07-22 | H1 ma maksymalnie 60 px, a zwykle mniej | Hero musi mieścić kluczową treść na 13-calowym MacBooku Air | Umiarkowane `clamp()`, zwarty hero i test przy 1280 × 800 px |
 
 ## 14. Otwarte pytania i TODO
 
 - [ ] Potwierdzić docelowy obszar działania The Build.
 - [ ] Uzupełnić prawdziwy numer telefonu, e-mail i adres lub zatwierdzić jawne dane demo.
-- [x] Akcent marki: techniczny safety yellow na chłodnej, grafitowo-białej bazie.
+- [x] Akcent marki: elektryczny kobalt na granatowo-stalowej bazie blueprint.
 - [ ] Dostarczyć albo zatwierdzić zdjęcia demonstracyjnych realizacji.
 - [ ] Wybrać docelową obsługę formularza.
 - [ ] Przygotować politykę prywatności i zasady cookies przed publikacją produkcyjną.
