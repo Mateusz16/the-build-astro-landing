@@ -15,6 +15,7 @@
 
 # Astro
 /.astro/
+/.vinext/
 
 # misc
 .DS_Store
